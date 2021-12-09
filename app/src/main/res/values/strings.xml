@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">KonfioTest</string>
+    <string name="dogs_generic_error">Algo salio mal, intenta más tarde.</string>
+    <string name="dogs_main_view_title">Dogs We Love</string>
+    <string name="dogs_internet_error_message">Por favor, revisa tu conexión de Internet y vuelve a intentarlo</string>
+
+</resources>
